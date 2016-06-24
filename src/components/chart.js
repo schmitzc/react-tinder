@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import React, { Component } from 'react';
+import React from 'react';
 import { Sparklines, SparklinesLine, SparklinesReferenceLine } from 'react-sparklines';
 
 function average(data) {

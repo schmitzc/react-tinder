@@ -6,3 +6,8 @@ td, th {
   text-align: center !important;
   vertical-align: middle !important;
 }
+
+td:first-of-type {
+  height: 250px;
+  width: 250px;
+}
